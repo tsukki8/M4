@@ -1,2 +1,3 @@
 echo "*.fits" >> .gitignore
 echo "*.png" >> .gitignore
+echo "translate_json/" >> .gitignore
