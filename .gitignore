@@ -1,0 +1,2 @@
+echo "*.fits" >> .gitignore
+echo "*.png" >> .gitignore
